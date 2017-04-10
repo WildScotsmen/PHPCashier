@@ -1,7 +1,7 @@
 <?php
 /**
  * Basic cash register system.
- * @author: Jacob McCloughan
+ * @author: Scoots
  * @version: 4/09/2017
  */
 
